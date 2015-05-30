@@ -1,0 +1,13 @@
+# Site settings
+title: Meals With Dad
+email: mealswithdad@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A site to celebrate the experiences I share with my kids as we explore food!	
+
+baseurl: /mealswithdad
+url: "http://www.mealswithdad.com" # the base hostname & protocol for your site
+twitter_username: mealswithdad
+github_username:  kfrench97
+
+# Build settings
+markdown: kramdown
